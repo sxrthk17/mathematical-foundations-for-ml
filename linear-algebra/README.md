@@ -1,0 +1,1 @@
+Hey, today 08/07/2026 I started learning Linear Algebra, today i read chapter 2 from the mml-book. Learned about vectors, matrices and different operations done on them, will learn and apply them tomorrow. 
