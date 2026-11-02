@@ -34,3 +34,6 @@ Many ideas explored here are inspired by the *Essence of Linear Algebra* series 
 ## Goal
 
 The objective of this repository is to build strong mathematical intuition that will support deeper understanding of machine learning systems and data analysis.
+
+
+currently learning LINEAR REGRESSION FROM SCRATCH
