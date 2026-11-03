@@ -36,4 +36,4 @@ Many ideas explored here are inspired by the *Essence of Linear Algebra* series 
 The objective of this repository is to build strong mathematical intuition that will support deeper understanding of machine learning systems and data analysis.
 
 
-currently learning LINEAR REGRESSION FROM SCRATCH
+currently learning LINEAR REGRESSION FROM SCRATCH, Correlation, causation, confounding, simpsons paradox !!
